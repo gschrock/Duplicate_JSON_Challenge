@@ -33,7 +33,7 @@
       }
     });
    
-    console.log("Original Lead Records ", '\n', data.leads);
+    console.log("Original Lead Records: ", '\n', data.leads);
     console.log('\n');
     console.log("Removed Duplicate Records: ", '\n', dupes);
     console.log('\n');
